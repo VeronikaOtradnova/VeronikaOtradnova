@@ -1,16 +1,21 @@
-## Hi there 👋
+# Frontend Developer (React / Next.js)
 
-<!--
-**VeronikaOtradnova/VeronikaOtradnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Меня зовут Ника.  
+Я занимаюсь разработкой интерфейсов на JavaScript и TypeScript, работаю с React и Next.js.
 
-Here are some ideas to get you started:
+Забочусь о читаемом коде и удобстве интерфейсов.  
+Стараюсь быть надёжным человеком в команде и делать свою часть хорошо.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Стек и технологии
+
+- **Языки:** TypeScript, JavaScript  
+- **Фреймворки:** React, Next.js  
+- **Состояние:** Redux, Zustand  
+- **API:** REST  
+- **Стили:** SCSS, CSS Modules, адаптивная и кроссбраузерная вёрстка  
+- **Тесты:** Jest, React Testing Library  
+- **Инструменты:** Git
+
+---
